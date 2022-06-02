@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://eesg.mit.edu/sitemap.xml

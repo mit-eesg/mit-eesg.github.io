@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Premila Rowles | Electrical Energy Systems Group</title><link>https://eesg.mit.edu/author/premila-rowles/</link><atom:link href="https://eesg.mit.edu/author/premila-rowles/index.xml" rel="self" type="application/rss+xml"/><description>Premila Rowles</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 1970 00:33:41 +0000</lastBuildDate><image><url>https://eesg.mit.edu/author/premila-rowles/avatar_hu61ad53ff29201d39d4c40bf72bda98d1_198923_270x270_fill_q75_lanczos_center.jpg</url><title>Premila Rowles</title><link>https://eesg.mit.edu/author/premila-rowles/</link></image><item><title>Cyber-Physical Secure Observer-Based Corrective Control under Compromised Sensor Measurements</title><link>https://eesg.mit.edu/publication/paper-2022-cyber-physical-secure-corrective-control/</link><pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate><guid>https://eesg.mit.edu/publication/paper-2022-cyber-physical-secure-corrective-control/</guid><description/></item><item><title>Implementation of cybersecure observers and control in microgrids; energy dynamics based approach</title><link>https://eesg.mit.edu/publication/thesis-rowles/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://eesg.mit.edu/publication/thesis-rowles/</guid><description/></item><item><title>Secure Monitoring and Control of Solar PV Systems through Dynamic Watermarking</title><link>https://eesg.mit.edu/project/watermarking/</link><pubDate>Wed, 20 Nov 2019 12:52:43 -0400</pubDate><guid>https://eesg.mit.edu/project/watermarking/</guid><description>&lt;p>This project will develop and demonstrate an active defense mechanism of
+cyber-resilient PV distribution system operation using a dynamic watermarking
+technique to monitor cybersecurity. The technique involves injecting a probe
+signal onto the grid to authenticate grid actions. The approach will include
+the real-time deployment of online computational algorithms in real-world
+critical locations. Partners include researchers from MIT, Texas A&amp;amp;M
+University, CenterPoint Energy, Argonne National Laboratory (ANL), and the
+Illinois Institute of Technology (IIT). The MIT team will develop corrective
+control algorithms to mitigate the negative impact of cyber attacks. The figure
+below presents the topology of a test microgrid with the secondary control. The
+secondary controller aims to regulate voltage magnitude and frequency at one
+bus of the microgrid by tuning the setpoints of all inverters. An attacker can
+compromise the microgrid by maliciously manipulating the telemetered
+measurements feeding the secondary controller. If it happens, all decisions
+made by the secondary controller will be wrong. To enhance the cyber resilience
+of the microgrid, key questions include: 1) how to detect the cyber attacks;
+and 2) how to mitigate the negative impacts of cyber attacks if the attacks are
+detected. The project teams leverage a dynamic watermarking approach to detect
+the cyber attacks. The MIT team are designing an observer-based approach for
+taking corrective actions once attacks are detected. With the proposed
+corrective controller, critical electrical variables can still be regulated in
+the presence of cyber attacks.&lt;/p>
+&lt;p>&lt;strong>Funding Agency:&lt;/strong> US Department of Energy&lt;/p></description></item></channel></rss>

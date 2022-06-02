@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Electrical Energy Systems Group</title><link>https://eesg.mit.edu/project/</link><atom:link href="https://eesg.mit.edu/project/index.xml" rel="self" type="application/rss+xml"/><description>Electrical Energy Systems Group</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 11 Aug 2020 00:00:00 +0000</lastBuildDate><image><url>https://eesg.mit.edu/media/logo_hub9827e0fc18583cc83ab0e07fe3389bc_14069_300x300_fit_lanczos_3.png</url><title>Electrical Energy Systems Group</title><link>https://eesg.mit.edu/project/</link></image><item><title>Application of Banking Scoring and Rating for Coherent Risk Measures in Electricity Systems</title><link>https://eesg.mit.edu/project/bars-perform/</link><pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate><guid>https://eesg.mit.edu/project/bars-perform/</guid><description>&lt;p>This project is a collaboration between MIT and Lehigh University to include
+fundamental risk tools from economics to balance uncertain supply and demand in
+the electricity sector and improve adoption of renewable energy sources. This
+critical infrastructure sector virtually affects everybody in the US, and is a
+cornerstone of the efforts to make a transition to a low carbon economy.&lt;/p>
+&lt;p>Traditionally, the grid relies on conventional bulk power plants to provide the
+flexibility to operate power systems reliably. These assets can guarantee
+available capacity except in rare events. The existing risk management strategy
+protects against those rare events and aligns well with conventional
+technologies. New risk management strategies are needed due to the shift in
+grid resources: variable renewable resources, distributed energy resources, and
+storage technologies. Management systems must be able to leverage all
+capabilities of these new technologies to maintain an economical and reliable
+grid. PERFORM projects aim to address that need by developing methods to
+quantify and manage risk at the asset and system levels for the grid.&lt;/p>
+&lt;p>&lt;strong>Sponsor:&lt;/strong> &lt;a href="https://arpa-e.energy.gov/technologies/projects/application-banking-scoring-and-rating-coherent-risk-measures-electricity" target="_blank" rel="noopener">ARPA-E&lt;/a>&lt;/p></description></item><item><title>Fundamentals of Modeling and Control for the Evolving Electric Power System Architectures (EAGER)</title><link>https://eesg.mit.edu/project/eager/</link><pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate><guid>https://eesg.mit.edu/project/eager/</guid><description>&lt;!-- # Your project description goes here. The text will be displayed via markdown. -->
+&lt;p>The main objective of this project is to formalize ground-breaking general
+principles in support of investment planning and operating protocols for the
+changing electric energy systems. This is crucial for assessing effects
+of candidate hardware and software technologies and for creating an environment
+in which flexible technologies are utilized by complementing each others'
+performance and by jointly meeting societal needs. Since the performance of
+many technologies of interest greatly depends on how well they are integrated
+over time and stakeholders (system modules), an effective framework needs to
+support decisions that are data-enabled and interactive over time and among
+different system decision makers. In this project a complex dynamical systems
+point of view is taken which recognizes such distributed nature of decisions
+and introduces novel modeling, control and protocol principles in support of
+system integration in time and space. In sharp contrast with the lack of
+theoretically-provable performance in the evolving electric power system
+architectures, this project explores fundamentals and takes major steps toward
+solving this long-overdue problem. The most important impact will be on the way
+electric power industry architectures evolve. In particular, the project will
+catalyze the adoption of data-enabled decision making and automation. Notably,
+this approach will help educate students to think about emerging electric
+energy systems as complex dynamical systems for which much innovation is needed
+and possible. Results of this research will be disseminated through a workshop
+on design and control of complex energy systems.&lt;/p>
+&lt;p>&lt;strong>Funding Agency:&lt;/strong> &lt;a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2002570&amp;amp;HistoricalAwards=false" target="_blank" rel="noopener">National Science Foundation&lt;/a>&lt;/p></description></item><item><title>Dynamic Monitoring and Decision Systems (DyMonDS) framework for IT-enabled engineering of retail-level energy services (RES)</title><link>https://eesg.mit.edu/project/dymonds-retail/</link><pubDate>Wed, 01 Jan 2020 12:52:43 -0400</pubDate><guid>https://eesg.mit.edu/project/dymonds-retail/</guid><description>&lt;p>In this project we utilize the concept of Dynamic Monitoring and Decision
+Systems (DyMoNDS) framework for IT-enabled engineering of end-to-end retail
+level energy services. The main architecture of interest is a fully
+integrated retail level energy service system for enhanced efficient, clean and
+reliable energy services. The key role is to learn end users’ needs,
+characteristics of the diverse distributed energy resources and to align their
+interactions through IT-enabled protocols on-line. Moreover, the integrators
+can also become a “provider of the last resource” to its end users, much the
+same way as the large utility is today. They plan and invest into new
+technologies for energy efficiency and quality of service to end users,
+establish long-term contracts at well-defined value.&lt;/p>
+&lt;p>&lt;strong>Sponsor:&lt;/strong> ENN Digital Energy Technology Co., Ltd., Beijing, China&lt;/p></description></item><item><title>SynthEtic CloUd-based Regulation rEserve Distribution management system (SECURED)</title><link>https://eesg.mit.edu/project/secured/</link><pubDate>Wed, 01 Jan 2020 12:52:43 -0400</pubDate><guid>https://eesg.mit.edu/project/secured/</guid><description>&lt;p>The requirement of fast generation for the case when the aggregate of small
+end-devices respond versus when they do not, decreases significantly. As a
+result, the wear-and-tear of the fast units reduce significantly and more
+importantly, the need for these expensive units can be minimized.&lt;/p>
+&lt;p>The goal of the project is to utilize the flexibility offered by an aggregate
+of distributed energy resources including water heaters, electric vehicles,
+batteries, heating, ventilating and air-conditioning (HVAC) units. These
+aggregates close to end-users are referred to as Network Optimized Distributed
+Energy Resources (NODES). We utilize the notion of DyMonDS to better utilize
+the end-user flexibility in light of the local uncertainties as well as the
+uncertainties in price.&lt;/p></description></item><item><title>Secure Monitoring and Control of Solar PV Systems through Dynamic Watermarking</title><link>https://eesg.mit.edu/project/watermarking/</link><pubDate>Wed, 20 Nov 2019 12:52:43 -0400</pubDate><guid>https://eesg.mit.edu/project/watermarking/</guid><description>&lt;p>This project will develop and demonstrate an active defense mechanism of
+cyber-resilient PV distribution system operation using a dynamic watermarking
+technique to monitor cybersecurity. The technique involves injecting a probe
+signal onto the grid to authenticate grid actions. The approach will include
+the real-time deployment of online computational algorithms in real-world
+critical locations. Partners include researchers from MIT, Texas A&amp;amp;M
+University, CenterPoint Energy, Argonne National Laboratory (ANL), and the
+Illinois Institute of Technology (IIT). The MIT team will develop corrective
+control algorithms to mitigate the negative impact of cyber attacks. The figure
+below presents the topology of a test microgrid with the secondary control. The
+secondary controller aims to regulate voltage magnitude and frequency at one
+bus of the microgrid by tuning the setpoints of all inverters. An attacker can
+compromise the microgrid by maliciously manipulating the telemetered
+measurements feeding the secondary controller. If it happens, all decisions
+made by the secondary controller will be wrong. To enhance the cyber resilience
+of the microgrid, key questions include: 1) how to detect the cyber attacks;
+and 2) how to mitigate the negative impacts of cyber attacks if the attacks are
+detected. The project teams leverage a dynamic watermarking approach to detect
+the cyber attacks. The MIT team are designing an observer-based approach for
+taking corrective actions once attacks are detected. With the proposed
+corrective controller, critical electrical variables can still be regulated in
+the presence of cyber attacks.&lt;/p>
+&lt;p>&lt;strong>Funding Agency:&lt;/strong> US Department of Energy&lt;/p></description></item><item><title>Cybersecurity Center for Secure Evolvable Energy Delivery Systems (SEEDS)</title><link>https://eesg.mit.edu/project/seeds/</link><pubDate>Tue, 20 Nov 2018 12:52:43 -0400</pubDate><guid>https://eesg.mit.edu/project/seeds/</guid><description>&lt;!-- # Your project description goes here. The text will be displayed via markdown. -->
+&lt;p>The goal of the Cybersecurity Center for Secure Evolvable Energy Delivery
+Systems (SEEDS) is to conduct research and develop innovative cybersecurity
+technologies, tools, and methodologies that advance the energy sector’s ability
+to survive cyber incidents while sustaining critical functions.&lt;/p>
+&lt;p>&lt;strong>Funding Agency:&lt;/strong> SEEDS&lt;/p></description></item><item><title>Scalable Electric Power System Simulator (SEPSS)</title><link>https://eesg.mit.edu/project/scalable-electric-power-system-simulator/</link><pubDate>Fri, 15 May 2015 00:00:00 +0000</pubDate><guid>https://eesg.mit.edu/project/scalable-electric-power-system-simulator/</guid><description>&lt;p>MIT is developing a modeling and HLA-compatible simulation platform called
+SEPSS. This platform builds on an earlier TCP/IP based multi-layered
+interactive computer platform named Smart Grid in a Room Simulator (SGRS)
+developed in collaboration with NIST. Each user can define its own system
+architecture comprising modules that have uniform functional characterization
+such that the interactions can happen across multiple spatial and temporal
+layers simultaneously. Given this, SEPSS can emulate hybrid system dynamics
+driven by different inputs (weather, consumer preferences) and market
+decisions. Both Centralized and Distributed Automated Modeling of Power Systems
+(CAMPS, DAMPS) are possible. DAMPS is particularly well-suited for simulating
+utility scale systems and markets.&lt;/p>
+&lt;p>We demonstrate the basic Transactive Energy Market (TEM) concepts on truncated
+IEEE-8500 test system and some missing market signals. We then show potential
+benefits on MIT-LL microgrid test systems from having more detailed market
+signals such as voltage and power ramp rates.&lt;/p>
+&lt;p>&lt;strong>Sponsor:&lt;/strong> National Institute of Standards and Technology&lt;/p></description></item></channel></rss>

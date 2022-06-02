@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>dymonds | Electrical Energy Systems Group</title><link>https://eesg.mit.edu/tag/dymonds/</link><atom:link href="https://eesg.mit.edu/tag/dymonds/index.xml" rel="self" type="application/rss+xml"/><description>dymonds</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 12:52:43 -0400</lastBuildDate><image><url>https://eesg.mit.edu/media/logo_hub9827e0fc18583cc83ab0e07fe3389bc_14069_300x300_fit_lanczos_3.png</url><title>dymonds</title><link>https://eesg.mit.edu/tag/dymonds/</link></image><item><title>Dynamic Monitoring and Decision Systems (DyMonDS) framework for IT-enabled engineering of retail-level energy services (RES)</title><link>https://eesg.mit.edu/project/dymonds-retail/</link><pubDate>Wed, 01 Jan 2020 12:52:43 -0400</pubDate><guid>https://eesg.mit.edu/project/dymonds-retail/</guid><description>&lt;p>In this project we utilize the concept of Dynamic Monitoring and Decision
+Systems (DyMoNDS) framework for IT-enabled engineering of end-to-end retail
+level energy services. The main architecture of interest is a fully
+integrated retail level energy service system for enhanced efficient, clean and
+reliable energy services. The key role is to learn end users’ needs,
+characteristics of the diverse distributed energy resources and to align their
+interactions through IT-enabled protocols on-line. Moreover, the integrators
+can also become a “provider of the last resource” to its end users, much the
+same way as the large utility is today. They plan and invest into new
+technologies for energy efficiency and quality of service to end users,
+establish long-term contracts at well-defined value.&lt;/p>
+&lt;p>&lt;strong>Sponsor:&lt;/strong> ENN Digital Energy Technology Co., Ltd., Beijing, China&lt;/p></description></item><item><title>SynthEtic CloUd-based Regulation rEserve Distribution management system (SECURED)</title><link>https://eesg.mit.edu/project/secured/</link><pubDate>Wed, 01 Jan 2020 12:52:43 -0400</pubDate><guid>https://eesg.mit.edu/project/secured/</guid><description>&lt;p>The requirement of fast generation for the case when the aggregate of small
+end-devices respond versus when they do not, decreases significantly. As a
+result, the wear-and-tear of the fast units reduce significantly and more
+importantly, the need for these expensive units can be minimized.&lt;/p>
+&lt;p>The goal of the project is to utilize the flexibility offered by an aggregate
+of distributed energy resources including water heaters, electric vehicles,
+batteries, heating, ventilating and air-conditioning (HVAC) units. These
+aggregates close to end-users are referred to as Network Optimized Distributed
+Energy Resources (NODES). We utilize the notion of DyMonDS to better utilize
+the end-user flexibility in light of the local uncertainties as well as the
+uncertainties in price.&lt;/p></description></item></channel></rss>
